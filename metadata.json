@@ -1,0 +1,6 @@
+{
+  "name": "AMLanfat - Motor de Riesgo AML/PLD y Suite Regulatoria",
+  "description": "Plataforma de monitoreo y motor de riesgo AML (0-1000) para transferencias bancarias y criptoactivos, envíos automatizados SAR a UIF/CenFi/GAFI, auditoría PDF/Excel, billetera de resguardo soberana y puente SPEI con retención SAT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
